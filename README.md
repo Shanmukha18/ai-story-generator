@@ -6,7 +6,7 @@ A Streamlit-based web application that uses the **Groq API with LLaMA 3** to gen
 
 ## 🚀 Live Demo
 
-👉 [Open the App]([https://shanmukha18-ai-story-generator.streamlit.app](https://ai-story-generator-xuuytgtfp3yyvtt4xtadoc.streamlit.app/))
+👉 [Open the App](https://ai-story-generator-xuuytgtfp3yyvtt4xtadoc.streamlit.app/)
 
 ---
 
